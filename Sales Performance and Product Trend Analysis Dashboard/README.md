@@ -14,6 +14,7 @@ Understanding trends, performance, and customer data is key for strategic decisi
 
 ### Skills:
 SQL: Data cleaning & transformations, Calculations, Aggregations
+
 PowerBI: Data visualization, Interactivity, Storytelling
 
 ### Results:
