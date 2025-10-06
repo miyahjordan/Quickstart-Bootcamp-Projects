@@ -7,7 +7,8 @@ Sales analytics are essential for nearly any company that sells products or serv
 Understanding trends, performance, and customer data is key for strategic decision-making. Business owners and stakeholders care about fraud so they can prevent significant financial losses, protect company reputation, and reduce legal consequences. How can we determine the amount of fraud being conducted and the amount of real sales?
 
 ### Methodology:
-1. Creating SQL queries that extract, cleans, and transforms data.
+
+1. Creating SQL queries that extracts, cleans, and transforms data.
 2. SQL queries that contain calculations and aggregate functions.
 3. A PowerBI visualization that demonstrates data storytelling and allows the reader to interact with the data.
 
