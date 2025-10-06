@@ -29,7 +29,7 @@ Using Excel to:
 Exploratory data analysis, Analytics storytelling, Data analysis, Data visualization
 
 ### Results & Next Steps:
-<img width="812" height="627" alt="image" src="https://github.com/user-attachments/assets/d6232581-5e4f-4a13-8793-54bbe45d1ee7" />
+<img width="1327" height="1161" alt="canvas" src="https://github.com/user-attachments/assets/81014f3f-c55f-409f-a04a-6009ba6f04f6" />
 
 1. I was able to determine that states with federal programs have the highest rate of fatalities at a rate of 128.2 versus the 87.7 found with state programs. Multiple things could contribute to the ratings being higher in federal programs, one of them being that there are simply more states in the federal program (29) in comparison to state programs (21).
    - Another contributing factor is that the federal states tend to have fatality ratings on a higher scale in comparison to their state counterparts.
