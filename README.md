@@ -1,6 +1,6 @@
 <h1 align="center"> Quickstart Bootcamp Projects </h1>
 
-<h2 align='center'> Table of Contents </h2>
+<h2 align='center'> 🧭 Table of Contents </h2>
 
 <p align='center'> 
   1. <a href=''>Exploratory Data Analysis - Workplace Fatalities</a>
