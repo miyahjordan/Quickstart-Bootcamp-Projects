@@ -1,2 +1,5 @@
-# Quickstart-Bootcamp-Projects
-A guide to all of the projects I completed during my time in Quickstart's data analytics and visualization bootcamp.
+<h1 align="center"> Quickstart Bootcamp Projects </h1>
+
+1. Exploratory Data Analysis Project
+2. Sales Performance and Product Trend Analysis Dashboard
+3. Capstone Project - Healthcare/Clinical Data Analysis
