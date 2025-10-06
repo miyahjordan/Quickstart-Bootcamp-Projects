@@ -4,7 +4,7 @@
 
 <p align='center'> 
   1. <a href='Exploratory Data Analysis - Workplace Fatalities'>Exploratory Data Analysis - Workplace Fatalities</a>
-<br> 2. <a href=''> Sales Performance and Product Trend Analysis Dashboard</a>
+<br> 2. <a href='Sales Performance and Product Trend Analysis Dashboard'> Sales Performance and Product Trend Analysis Dashboard</a>
 <br> 3. <a href=''>Capstone Project - Healthcare/Clinical Data Analysis</a>
 </p>
 
