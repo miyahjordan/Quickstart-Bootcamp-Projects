@@ -49,6 +49,4 @@ Exploratory data analysis, Analytics storytelling, Data analysis, Data visualiza
    - With this information, I made the informed decision that the number of inspectors does not have an impact on the average amount of inspection years.
 
 5. I created a stacked line chart using the fatality and injury/illness rates as well as the years in which it would take to inspect one workplace. The graph showed that both trendlines were relatively similar with illnesses/injuries being higher in volume in comparison to fatalities.
-   - Aside from some outliers, it seems that the amount of time it takes to inspect one workplace does have a small impact, with the longer it takes occasionally resulting in higher reported rates of injuries/illnesses and fatalities.
-
-While I am proud of what I accomplished, I could’ve used more advanced functions to help aid in my analysis such as VLOOKUP or XLOOKUP, I could’ve also investigated more insights on my own and I could’ve attempted to clean up my data a little better as substituting missing data with N/A did make the analysis a little harder.
+   - Aside from some outliers, it seems that the amount of time it takes to inspect one workplace does have a small impact, with the longer it takes occasionally resulting in higher reported rates of injuries/illnesses and fatalities. 
