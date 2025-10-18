@@ -44,9 +44,9 @@ ORDER BY customer_id;
 
 -- changing data types for certain columns
 -- email_open rate should be a double value and customer_since should be formatted as dates
--- UPDATE customer_data
--- SET email_open_rate = 0.0
--- WHERE email_open_rate = '';
+UPDATE customer_data
+SET email_open_rate = 0.0
+WHERE email_open_rate = '';
 
 ALTER TABLE customer_data
 MODIFY COLUMN email_open_rate DECIMAL(10,1);
